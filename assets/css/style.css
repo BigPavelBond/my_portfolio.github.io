@@ -1135,3 +1135,6 @@ a.spoiler_links:hover {
 		height: 100px;
 	}
 }
+::-webkit-scrollbar {
+    width: 0px;
+}
